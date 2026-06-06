@@ -21,17 +21,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS / Hosted Platforms
 
-### Core Protein Structure Prediction Platforms
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[AlphaFold Server](https://alphafoldserver.com/)** | Google DeepMind's platform for AlphaFold 3 (monomers, complexes, ions, etc.). | Free (Non-commercial) | Daily token-based job limits |
+| **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** | Database of over 200 million protein structure predictions by DeepMind and EMBL-EBI. | Free | Unlimited downloads |
+| **[Robetta](https://robetta.bakerlab.org/)** | Baker Lab's server for RoseTTAFold and TrRosetta predictions. | Free (Academic) | Unlimited for non-profit research |
+| **[ESM Metagenomic Atlas](https://esmatlas.com/)** | Meta AI's service for ESMFold predictions (fast, language model-based). | Free | Unlimited public API access |
+| **[Neurosnap](https://neurosnap.ai/)** | Comprehensive SaaS for Boltz-1, RoseTTAFold2, and many other bio-AI models. | Paid (~$6.42/mo+) | 1 initial compute credit |
+| **[Tamarind Bio](https://www.tamarind.bio/)** | User-friendly interface for RoseTTAFold All-Atom and complex predictions. | Paid (Academic/Comm.) | 10 jobs per month |
 
-- **[AlphaFold (Google DeepMind)](https://alphafold.ebi.ac.uk/)**  
-  Revolutionary AI system that transformed structural biology with near-experimental accuracy for protein structure prediction.
-
-- **[RoseTTAFold](https://robetta.bakerlab.org/)**  
-  Advanced structure prediction method from the Baker Lab with strong performance on challenging targets.
-
-### Advanced Platforms
-
-**Other notable mentions**: ESMFold server, Boltz-1 hosted inference, and various cloud-based bioinformatics platforms.
+**Other notable mentions**: ESMFold community spaces on Hugging Face, Boltz-1 hosted via BioLM, and various cloud-based bioinformatics platforms.
 
 ## Open-Source GitHub Projects
 
