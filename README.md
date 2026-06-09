@@ -1,13 +1,21 @@
 # 🧬 Awesome Protein Structure Prediction AI
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Protein-Structure-Predicting-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Protein-Structure-Predicting-AI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Protein-Structure-Predicting-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Protein-Structure-Predicting-AI/network/members)
 [![GitHub contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Protein-Structure-Predicting-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Protein-Structure-Predicting-AI/graphs/contributors)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > **A curated list of state-of-the-art AI models, SaaS platforms, and open-source projects for protein structure prediction, folding, and design.**
 
+</div>
 ---
 
 ## 🌟 Overview
